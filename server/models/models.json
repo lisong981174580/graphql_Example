@@ -1,0 +1,16 @@
+{
+    "models": [
+        {
+            "model": "Cat",
+            "path": "./cat"
+        },
+        {
+            "model": "Dog",
+            "path": "./dog"            
+        },
+        {
+            "model": "Base",
+            "path": "./base"            
+        }
+    ]
+}
